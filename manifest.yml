@@ -8,7 +8,7 @@ applications:
   memory: 512M
   instances: 1
   name: cities-from-space
-  disk_quota: 512M
+  disk_quota: 256M
   random-route: false
   services:
   - cfs-visual-recognition
