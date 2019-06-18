@@ -41,7 +41,7 @@ Note that when you first run the server app approximately 125M of image files wi
 
 ## Deploy the server application to IBM Cloud
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/IBM/cities-from-space)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/RiyaMRoy04/cities-from-space)
 
 Press the above ``Deploy to IBM Cloud`` button and then click on ``Deploy``.
 
